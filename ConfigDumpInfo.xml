@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="78d1646f-fc2e-442c-a1a5-46779e658531" configVersion="90d569db98d99d48a9f7892f7248994100000000"/>
+		<Metadata name="Configuration.ТестовоеЗаданиеEDT" id="6e60c94f-8b4f-409d-94e6-cf405faeaf14" configVersion="580c9e69912b044eb935cc7bafb67bea00000000"/>
+		<Metadata name="Configuration.ТестовоеЗаданиеEDT.CommandInterface" id="5e656e74-9ea2-4652-91cd-7e0009e11145.a" configVersion="b4d95e51b8441644b9460bc6916d573600000000"/>
+		<Metadata name="Configuration.ТестовоеЗаданиеEDT.MainSectionCommandInterface" id="5e656e74-9ea2-4652-91cd-7e0009e11145.9" configVersion="0102b5172630c34b824c1c9cd71bfe8700000000"/>
+		<Metadata name="Document.Подажи" id="082f3c05-5ca3-498c-a43b-616490a9056c" configVersion="4af0f972c5c44b4ea26f2b564ab4b72900000000">
+			<Metadata name="Document.Подажи.TabularSection.Товары.Attribute.Сумма" id="0c151780-6b73-4603-822a-fcb725c44f9a"/>
+			<Metadata name="Document.Подажи.TabularSection.Товары.Attribute.Цена" id="58dd5999-6dca-4b12-b2ab-cd790b89bfec"/>
+			<Metadata name="Document.Подажи.TabularSection.Товары" id="70113163-bbef-4e81-86d7-2801b85ecceb"/>
+			<Metadata name="Document.Подажи.TabularSection.Товары.Attribute.Товар" id="b11b43f3-a737-4299-90c2-cc82866132d7"/>
+			<Metadata name="Document.Подажи.Attribute.Комментарий" id="b52cf486-e5bd-4a81-9dcd-5cc67469f2e9"/>
+			<Metadata name="Document.Подажи.TabularSection.Товары.Attribute.Количество" id="ee30d290-d7ca-45a1-8d25-3328cb380fc5"/>
+		</Metadata>
+		<Metadata name="Document.Подажи.Form.ФормаДокумента" id="a5ce7bb7-ce06-4f46-8da1-1685bc7d3abc" configVersion="e9556ae7dd4ccf4cb15363a3d4b0262c00000000"/>
+		<Metadata name="Document.Подажи.Form.ФормаДокумента.Form" id="a5ce7bb7-ce06-4f46-8da1-1685bc7d3abc.0" configVersion="8b6bccdca332eb45b5fc7f1efd83b8c400000000"/>
+		<Metadata name="Language.Русский" id="93b6ef36-2f91-49a8-915f-1b2b0c928c57" configVersion="a62204b4044a094ea0fa49c8a171cba200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
